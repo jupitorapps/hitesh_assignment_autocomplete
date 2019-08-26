@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Game Selector</string>
+    <string name="select_video_game">Select Video Game</string>
+    <string name="video_games">video games</string>
+</resources>
